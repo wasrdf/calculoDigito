@@ -8,5 +8,8 @@
 9369-D
 9639-0
 9854-4
+<<<<<<< HEAD
 9876-E
 9992-0
+=======
+>>>>>>> branch 'master' of https://github.com/wasrdf/calculoDigito

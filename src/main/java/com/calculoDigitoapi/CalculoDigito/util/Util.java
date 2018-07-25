@@ -8,6 +8,7 @@ import java.util.List;
 
 public class Util {
 
+
 	public static File gerarArquivo(List<String> matriculas) throws IOException {
 		File file = new File("matriculasComDV.txt");
 		BufferedWriter output = null;
@@ -28,5 +29,4 @@ public class Util {
 
 		return file;
 	}
-	
 }
